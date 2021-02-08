@@ -1,0 +1,2 @@
+# i
+MY INIT
